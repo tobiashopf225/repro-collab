@@ -35,7 +35,7 @@ Based on the theoretical framework and prior observations, we predict:
 
 ### Participants
 
-Five participants with normal or corrected-to-normal vision will complete the study.
+20 participants with normal or corrected-to-normal vision will complete the study.
 
 ### Materials
 
@@ -60,7 +60,7 @@ Five participants with normal or corrected-to-normal vision will complete the st
    - Total: approximately 6,850 trials per participant
 4. Sessions last approximately one hour, with regular breaks to prevent fatigue
 
-### Key Measurements
+### Key Measures
 
 - **Reaction time**: Time from stimulus presentation to response (in seconds)
 - **Accuracy**: Whether the participant correctly identified the larger square
